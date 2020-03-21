@@ -11,7 +11,7 @@ html{
 }
 @font-face{
     font-family: The Historia Demo;
-    src:url('TheHistoriaDemo')
+    src:url('TheHistoriaDemo.ttf')
 }
 body{
     width: 100%;
